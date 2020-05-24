@@ -1,5 +1,9 @@
 Read this!!
 
+# Python Books
+<img src="https://covers.oreillystatic.com/images/0636920028154/lrg.jpg" width="10%" alt="Learning Python"/>
+<img src="https://www.oreilly.com/library/cover/9781491919521/250w/" width="10%" alt="Head First Python"/>
+
 # Access Medium Articles here:
 https://medium.com/the-python-diary
 
